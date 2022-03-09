@@ -1,0 +1,57 @@
+body
+{
+	margin: 20px;
+	padding: 20px;
+}
+.cv h1
+{
+	text-align: center;
+	color: #FF6700;
+	font-size: 50px;
+	background-color:  #FFCCCB;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+.cv2 h1
+{
+	text-align: left;
+	color: #152238;
+	font-size: 40px;
+	background-color: lightgray;
+	width: 300px;
+}
+
+.cv2 p
+{
+	text-align: left;
+	color: black;
+	font-size: 20px;
+}
+
+.cv p
+{
+	text-align: left;
+	color: black;
+	font-size: 20px;
+
+}
+
+.footer
+{
+    text-align: center;
+	color: #000000;
+	font-size: 20px;
+	background-color:  #FFCCCB;
+}
+
+.footer h1
+{
+	text-align: center;
+	color: #FF6700;
+	font-size: 50px;
+	background-color:  #FFCCCB;
+}
